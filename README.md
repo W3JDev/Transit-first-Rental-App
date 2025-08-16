@@ -2,6 +2,17 @@
 
 *Last updated: 16 Aug 2025*
 
+## Quickstart
+
+```bash
+npm install
+cp .env.example .env
+npm run db:seed # requires postgres
+npm run dev
+```
+
+API runs at `http://localhost:4000`, web at `http://localhost:3000`.
+
 ## 1) Problem & Vision
 
 **Problem:** Renters (locals, students, expats) struggle to evaluate listings by true access to public transport, safe walkability, deposit terms, transparent pricing, and day‑to‑day livability.
