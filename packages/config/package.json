@@ -1,0 +1,5 @@
+{
+  "name": "@transit/config",
+  "version": "0.0.1",
+  "main": "tsconfig.base.json"
+}
